@@ -5,5 +5,5 @@ I'm a tech dweeb who works in the enterprise environment on various different so
 ### Current Skillsets:
 ![emacs](https://img.shields.io/badge/Editor-Emacs-1abc9c.svg) / ![pyton](https://img.shields.io/badge/Language-Python-1abc9c.svg) / [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-### Current Research:
+### Currently studying:
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
